@@ -2,8 +2,8 @@
 
 void main() 
 {
-    FILE *fIn = fopen("C:\\Users\\Poojitha Sai\\Downloads\\snail.bmp","rb");                    //Input File name
-    FILE *fOut = fopen("C:\\Users\\Poojitha Sai\\Downloads\\snail1.bmp", "wb");
+    FILE *fIn = fopen("C:\\Users\\Poojitha Sai\\Downloads\\sample_bmp.bmp","rb");                    //Input File name
+    FILE *fOut = fopen("C:\\Users\\Poojitha Sai\\Downloads\\sample_bmp.bmp", "wb");
 
 
     int i, j, y;
