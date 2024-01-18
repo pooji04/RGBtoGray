@@ -26,7 +26,7 @@ This C program takes an input BMP image file in RGB format and converts it into 
 
 ## Note
 - The program assumes that the input image is in BMP format with a 24-bit color depth (8 bits per channel).
-- efer [this link](https://www.baeldung.com/cs/convert-rgb-to-grayscale) to understand the conversion formula better.
+- Refer [this link](https://www.baeldung.com/cs/convert-rgb-to-grayscale) to understand the conversion formula better.
 
 ## Disclaimer
 - The program does not handle all possible BMP file formats or error conditions. It is a basic example and may need modifications for broader use cases.
